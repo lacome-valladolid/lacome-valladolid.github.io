@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: La verdadera Amistad, resiste el tiempo, la distancia y el silencio.
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Treinta alumnos del antiguo colegio Lacome se reunieron ayer en el hotel Meliá Recoletos, casi sesenta años después de finalizar sus estudios. \n El Norte de Castilla.
   action: # action button is optional
     label: Find Out More
     url: '#about'
