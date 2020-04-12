@@ -57,7 +57,7 @@ sections:
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
+      <!-- - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
         url: '#'
@@ -76,7 +76,7 @@ sections:
       - title: Project 6
         text: This is a very short project description.
         icon: 6.jpg
-        url: '#'
+        url: '#' -->
 
   - type: aside.html
     section_id: aside
